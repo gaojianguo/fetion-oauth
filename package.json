@@ -1,0 +1,11 @@
+{
+  "name": "fetion-oauth",
+  "version": "0.0.1",
+  "description": "和飞信公众号 OAuth接口服务中间件",
+  "main": "lib/oauth.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
